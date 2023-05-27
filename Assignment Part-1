@@ -1,0 +1,45 @@
+## 
+Q1. Why do we call Python as a general purpose and high-level programming language?
+
+Python is a general-purpose programming language that can be used for a wide variety of tasks, including web development, data science, machine learning, and artificial intelligence. It is a high-level language, which means that it is closer to human language than to machine language. This makes it easier to read and write, and it also makes it more portable, as it can be run on a variety of platforms.
+
+Q2. Why is Python called a dynamically typed language?
+
+In a dynamically typed language, the type of a variable is not declared before it is used. Instead, the type of the variable is inferred from the value that is assigned to it. This makes Python a very flexible language, as it allows you to change the type of a variable without having to change the code.
+
+Q3. List some pros and cons of Python programming language?
+
+Here are some of the pros and cons of Python programming language:
+
+Pros:
+
+i) Easy to learn and use
+ii) Powerful and versatile
+iii) Portable and runs on a variety of platforms
+iv) Open source and free to use
+v) Large and active community of developers
+
+Cons:
+
+i) Not as fast as some other programming languages
+ii) Not as well-suited for low-level system programming as it is slow
+
+Q4. In what all domains can we use Python?
+
+Python can be used in a wide variety of domains, including:
+
+Web development
+Data science
+Machine learning
+Artificial intelligence
+Scientific computing
+Software development
+Automation
+
+Q5. What are variable and how can we declare them?
+
+A variable is a named location in memory that can store a value. Variables are declared using the var keyword. For example, the following code declares a variable named `name` and assigns it the value `Hewlett Packard`:
+
+```
+name = "Hewlett Packard"
+```
